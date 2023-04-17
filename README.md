@@ -1,6 +1,8 @@
 # dark_and_lightmode
 
-A new Flutter project.
+A simple oncept for dark and light mode for apps using theme 
+here i have done 2 ways for them first recognizing device ative dark opr  light thme and use as same using material app
+secondly chage theme on pressing iconbutton
 
 ## Getting Started
 
